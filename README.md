@@ -24,7 +24,3 @@
 ###
 
 <br clear="both">
-
-<img src="https://raw.githubusercontent.com/Shell1337/Shell1337/output/snake.svg" alt="Snake animation" />
-
-###
